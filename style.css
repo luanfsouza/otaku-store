@@ -6,36 +6,25 @@
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
-
-.oi {
-    background-color: #ffffff8f;
-    max-width: 70px;
-    height: 900px;
-    position: fixed;
-}
 .pi{
-    background-color: #11ff00;
+    background-color: #ff3300;
 }
-
 .imagem img {
     min-width: 200px;
     max-height: 30vh;
     min-height: 300px;
     margin: 0px 20px; 
 }
-.ju {
+.pi img {
     max-width: 300px;
     max-height: 100px;
     padding-left: 20px;
-
 }
 .po {
     background-color: #ff3300; 
     width: 100%;
     margin-bottom: 60px; 
     height: 100px;
-
-    
 }
 ul {
     display: flex;
