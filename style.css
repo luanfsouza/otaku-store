@@ -9,6 +9,9 @@
 .pi{
     background-color: #ff3300;
 }
+.pi2{
+    background-color: #ff3300;
+}
 .imagem img {
     min-width: 200px;
     max-height: 30vh;
@@ -16,6 +19,11 @@
     margin: 0px 20px; 
 }
 .pi img {
+    max-width: 300px;
+    max-height: 100px;
+    padding-left: 20px;
+}
+.pi2 img {
     max-width: 300px;
     max-height: 100px;
     padding-left: 20px;
